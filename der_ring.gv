@@ -1,0 +1,224 @@
+digraph wagner_leitmotif {
+"1: Genesis"->"53: Ride of the Valkuries" [style="dashed"]
+"1: Genesis"->"2: Nature or Rhine"
+"1: Genesis"->"7: Gold"
+"1: Genesis"->"33: Erda"
+"1: Genesis"->"35: Thunder"
+"1: Genesis"->"36: Rainbow"
+"1: Genesis"->"37: Sword"
+"1: Genesis"->"63: Power of the Gods"
+"1: Genesis"->"87: Forest Murmurs"
+
+"2: Nature or Rhine"->"91: Revival" [style="dashed"]
+"2: Nature or Rhine"->"9: Rhine Wave"
+
+"3: Rhinemaidens"->"8: Rhinegold" [style="dashed"]
+"3: Rhinemaidens"->"122: Rhinemaidens' Delight" [style="dashed"]
+"3: Rhinemaidens"->"123: More Rhinemaidens" [style="dashed"]
+"3: Rhinemaidens"->"68: Sanctuary, or Sleeping Brunhilde"
+"3: Rhinemaidens"->"78: Wood Birds"
+
+"4: Scurrying"->"5: Alberich"
+
+"5: Alberich"->"76: Mime's Complaint"
+
+"7: Gold"->"8: Rhinegold"
+
+"8: Rhinegold"->"6: Woe, or Grief"
+"6: Woe, or Grief"->"10: Renunciation of Love"
+"6: Woe, or Grief"->"26: Servitude"
+"6: Woe, or Grief"->"51: Bliss"
+"6: Woe, or Grief"->"60: Fate"
+"6: Woe, or Grief"->"117: Hagen's call"
+
+"8: Rhinegold"->"9: Rhine Wave" [style="dashed"]
+"8: Rhinegold"->"24: Nibelheim"
+"8: Rhinegold"->"39: Rhinemaidens' Lament"
+
+"9: Rhine Wave"->"8: Rhinegold" [style="dashed"]
+"9: Rhine Wave"->"23: Wave Motion"
+"9: Rhine Wave"->"40: Storm"
+
+"10: Renunciation of Love"->"11: Ring"
+"10: Renunciation of Love"->"22: Love Tragedy"
+
+"11: Ring"->"12a: Valhalla I"
+"11: Ring"->"27: Power of the Ring"
+"11: Ring"->"30: Dragon"
+"11: Ring"->"28: Treasure"
+"11: Ring"->"31: Hate"
+"11: Ring"->"32: Curse"
+"11: Ring"->"47: Obligation"
+"11: Ring"->"72: Scheming"
+"11: Ring"->"106: Gutrune"
+"11: Ring"->"118: Gibichung"
+"11: Ring"->"109: Vow of Atonement"
+
+"12a: Valhalla I"->"12b: Valhalla II"
+"12a: Valhalla I"->"29: Arrogance"
+
+"12b: Valhalla II"->"12c: Valhalla III"
+
+"13: Spear"->"17: Irrevocable Law"
+"13: Spear"->"18: Treaty"
+"13: Spear"->"40: Storm"
+"13: Spear"->"41: Siegmund"
+"13: Spear"->"56: Wotan's Frustration"
+"13: Spear"->"58: Wotan's Revolt"
+"13: Spear"->"67: Reproach"
+"13: Spear"->"63: Power of the Gods"
+"13: Spear"->"90: Bequest"
+
+"14: Enchantment"->"66: Redemption Through Love"
+
+"15: Freia Pursued"->"44: Love"
+"15: Freia Pursued"->"15b: Love Driven Out"
+"15: Freia Pursued"->"96: Love's Resolution"
+
+"15a: Freia as Love"->"106: Gutrune"
+"15a: Freia as Love"->"13: Spear" [style="dashed"]
+
+
+"15b: Love Driven Out"->"64: Riding"
+
+"16: Giants"->"85: Fafner"
+
+"19: Golden Apples"->"20: Froh"
+
+"21: Loge"->"25: Tarnhelm"
+"21: Loge"->"29: Arrogance"
+"21: Loge"->"71: Magic Sleep, or Oblivion"
+"21: Loge"->"80: Wanderer"
+"21: Loge"->"82: Work"
+
+"22: Love Tragedy"->"47: Obligation"
+"22: Love Tragedy"->"109: Vow of Atonement"
+"22: Love Tragedy"->"92: Love's Greeting"
+
+"24: Nibelheim"->"75: Obstinate Mime"
+
+"25: Tarnhelm"->"104: Forgetfulness"
+
+"27: Power of the Ring"->"26: Servitude"
+
+"28: Treasure"->"30: Dragon" [style="dashed"]
+"30: Dragon"->"28: Treasure" [style="dashed"]
+
+"31: Hate"->"113: Revenge" [style="dashed"]
+
+"32: Curse"->"62: Death"
+"32: Curse"->"65: Siegfried"
+
+"33: Erda"->"34: Gotterdammerung"
+"33: Erda"->"53: Ride of the Valkyries"
+"33: Erda"->"81: World Ash Tree"
+
+"34: Gotterdammerung"->"57: Need of the Gods"
+"34: Gotterdammerung"->"97: Norns' Rope"
+
+"35: Thunder"->"40: Storm" [style="dashed"]
+
+"37: Sword"->"38: Purpose of the Sword"
+"37: Sword"->"52: Nothung"
+
+"38: Purpose of the Sword"->"103: Seduction"
+
+"41: Siegmund"->"42: Sieglinde"
+"41: Siegmund"->"43: The Drink"
+
+"42: Sieglinde"->"43: The Drink"
+
+"43: The Drink"->"44: Love" [style="dashed"]
+
+"44: Love"->"77: Longing"
+
+"45: Walsung Sorrow"->"67: Reproach"
+
+"46: Hunding"
+
+"48: Wehwalt"->"70: Wotan's Grief" [style="dashed"]
+"48: Wehwalt"->"49: Walsungs" [style="dashed"]
+
+
+"50: Spring Song"
+
+"52: Nothung"->"105: Honour"
+
+"53: Ride of the Valkyries"->"54: Valkyrie Call"
+
+"55: Fricka's Anger"->"56: Wotan's Frustration" [style="dashed"]
+
+"56: Wotan's Frustration"->"55: Fricka's Anger" [style="dashed"]
+"56: Wotan's Frustration"->"57: Need of the Gods"
+"56: Wotan's Frustration"->"88: Mime's Deceit"
+"56: Wotan's Frustration"->"121: Wotan's Frustration (Hagen)"
+
+"57: Need of the Gods"->"102: Gunther as Hero"
+
+"59: Wotan's Wrath"
+
+"60: Fate"->"62: Death"
+"60: Fate"->"91: Revival"
+
+"61: Crisis"
+
+"63: Power of the Gods"->"102: Gunther as Hero"
+
+"64: Riding"->"53: Ride of the Valkyries"
+
+"66: Redemption Through Love"->"100: Brunhilde as Woman"
+
+
+"67: Reproach"->"69: Wotan's Love"
+
+"70: Wotan's Grief"->"77: Longing"
+"70: Wotan's Grief"->"68: Sanctuary, or Sleeping Brunhilde" [style="dashed"]
+
+"73: Siegfried's Horn Call"->"99: Hero"
+"73: Siegfried's Horn Call"->"106: Gutrune"
+
+"74: Siegfried's Anger"->"75: Obstinate Mime" [style="dashed"]
+"74: Siegfried's Anger"->"84: Siegfried's Forging Song II"
+
+"75: Obstinate Mime"->"74: Siegfried's Anger" [style="dashed"]
+
+"79: Freedom"->"5: Alberich"
+
+"83: Siegfried's Forging Song I"->"84: Siegfried's Forging Song II"
+
+"84: Siegfried's Forging Song II"->"119: Vassals"
+
+"86: Passion"
+
+"89: Erda's Awakening"
+
+"91: Revival"->"2: Nature or Rhine" [style="dashed"]
+
+"93: Love's Ecstasy"
+
+"94: Immortal Beloved"->"95: World's Treasure" [style="dashed"]
+
+"95: World's Treasure"->"101: Heroic Love"
+
+"98: Norns"
+
+"107: Blood Brotherhood I"->"108: Blood Brotherhood II" [style="dashed"]
+
+"108: Blood Brotherhood II"->"109: Vow of Atonement" [style="dashed"]
+
+"110: Hagen"->"120: Swearing of the Oath" [style="dashed"]
+
+"111: Restless Plotting"
+
+"112: Honour"->"105: Friendship"
+
+"113: Revenge"->"31: Hate" [style="dashed"]
+
+"113: Revenge"->"114: Murder"
+
+"115: Hagen's Dawn"->"116: Hagen's Day"
+
+"122: Rhinemaidens' Delight"->"123: More Rhinemaidens"
+
+
+}
